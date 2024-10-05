@@ -82,7 +82,7 @@ int main()
 }
 ```
 
-## OUTPUT
+## OUTPUT:
 #### Writer process
 ![alt text](os4i.png)
 ![alt text](os4ii.png)
